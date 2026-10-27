@@ -1,0 +1,43 @@
+{
+  "brand": "Northwind Dental",
+  "tagline": "Clear, practical dental care for Harbor City families",
+  "url": "https://northwind-dental.example",
+  "audience": "Families and adults seeking local dental care",
+  "services": [
+    "Preventive dental care",
+    "Restorative dentistry"
+  ],
+  "pages": [
+    {
+      "title": "Home",
+      "path": "/",
+      "description": "Overview of the practice and its approach"
+    },
+    {
+      "title": "About",
+      "path": "/about",
+      "description": "Care philosophy and team credentials"
+    },
+    {
+      "title": "Services",
+      "path": "/services",
+      "description": "Preventive and restorative services"
+    }
+  ],
+  "ignore_paths": [
+    "/admin",
+    "/account",
+    "/forms/private"
+  ],
+  "faqs": [
+    {
+      "question": "What services does Northwind Dental provide?",
+      "answer": "Northwind Dental provides preventive dental care and restorative dentistry for adults and families."
+    },
+    {
+      "question": "How can a new patient prepare for a first visit?",
+      "answer": "Bring a current medication list and any recent dental records, then arrive early to complete the intake form."
+    }
+  ]
+}
+
